@@ -1,7 +1,8 @@
-# Cucumber with Serenity Report
+# Cucumber with Serenity
 
 [![](http://static1.squarespace.com/static/5b64cabf5b409bbf05dbd8b3/t/5b6571f11ae6cf3410e9e52b/1533374966496/cucumber-black-512.png?format=500w)](https://cucumber.io/)
-A sample project for Cucumber tests.
+
+A sample project for Cucumber test which is using Serenity Report
 
 Cucumber is a testing approach which supports;
 - Behavior Driven Development (BDD). 
